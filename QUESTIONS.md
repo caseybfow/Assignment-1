@@ -11,16 +11,16 @@ included in your commit, or I won't see it to grade it!*
 
 What... is GitHub, and how is it different from Git?
 
-*Replace this line with your answer*
+GitHub is a cloud-based platform where you can store, share, and work together with others to write code. It is different from Git because it is a cloud based platform where you can use it online while Git is used locally on ones computer.
 
 #### Question 2
 
 What... is your favorite type of snake?
 
-*Replace this line with your answer*
+My favorite type of snake is a King Cobra.
 
 #### Question 3
 
 What... is the airspeed velocity of an unladen swallow?
 
-*Replace this line with your answer*
+An African or European swallow?
